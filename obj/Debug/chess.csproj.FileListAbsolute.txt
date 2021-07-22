@@ -1,0 +1,12 @@
+C:\Users\nurie\OneDrive\שולחן העבודה\תלפיות הייטק\Projects\chess\bin\Debug\chess.exe.config
+C:\Users\nurie\OneDrive\שולחן העבודה\תלפיות הייטק\Projects\chess\bin\Debug\chess.exe
+C:\Users\nurie\OneDrive\שולחן העבודה\תלפיות הייטק\Projects\chess\bin\Debug\chess.pdb
+C:\Users\nurie\OneDrive\שולחן העבודה\תלפיות הייטק\Projects\chess\obj\Debug\chess.csprojAssemblyReference.cache
+C:\Users\nurie\OneDrive\שולחן העבודה\תלפיות הייטק\Projects\chess\obj\Debug\chess.exe
+C:\Users\nurie\OneDrive\שולחן העבודה\תלפיות הייטק\Projects\chess\obj\Debug\chess.pdb
+C:\Users\nurie\OneDrive\שולחן העבודה\תלפיות הייטק\Projects\‏‏chess2\bin\Debug\chess.exe.config
+C:\Users\nurie\OneDrive\שולחן העבודה\תלפיות הייטק\Projects\‏‏chess2\bin\Debug\chess.exe
+C:\Users\nurie\OneDrive\שולחן העבודה\תלפיות הייטק\Projects\‏‏chess2\bin\Debug\chess.pdb
+C:\Users\nurie\OneDrive\שולחן העבודה\תלפיות הייטק\Projects\‏‏chess2\obj\Debug\chess.csprojAssemblyReference.cache
+C:\Users\nurie\OneDrive\שולחן העבודה\תלפיות הייטק\Projects\‏‏chess2\obj\Debug\chess.exe
+C:\Users\nurie\OneDrive\שולחן העבודה\תלפיות הייטק\Projects\‏‏chess2\obj\Debug\chess.pdb
